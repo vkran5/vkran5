@@ -1,59 +1,45 @@
-# Hi there, I'm Vikri Agung) 👋
+# Hi there, I'm Vikri Agung 👋
 ## About me:
-- 🔭 I’m currently looking for an opportunity
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+
+- 🎓 I'm just graduated from Purwadhika Technologi and Digital School
+- 🔭 I’m currently looking for an opportunity to be Fullstack, frontend or backend
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: vikriagung7@gmail.com
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. [Purwadhika Fullstack Web Wevelopment](https://purwadhika.com/) | Student | May 2022 - Nov 2022
+   - Learnt web development skills by learning Fundamental Javascript.
+   -  Improved Fundamental Javascript by learning Git/Github, React JS, Next JS, Node JS, Express JS, MySQL, CSS, Bootstrap, Chakra UI, Tailwind, Agile and Scrum Method.
+   -  Finished individual called posty, it is a social media or instagram clone web app
+   -  Finished final project with two others member called sehatbos.com. It is a web app pharmachy where user can buy medicine by units and based on doctor prescription
+#### 2. [Grab](https://www.grab.com/id/) | Area Development Executif | Bandung | Nov 2019 - Jul 2022
+   -  Managed medium sized project Bandung Raya area from start to finish
+   -  Conducted project coordination with local government to held event named "Pemberdayaan UMKM"
+   -  Doing research and mapping potential area that could be have a good growth
+   -  Met drivers community through kopdar to maintance a good engagement with partner
+   - Made strategic quarter plan
+   -  Maintain good relationship with important stakeholders
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+#### 1. [Universitas Padjadjaran](https://www.unpad.ac.id) | Bachelor of Government Science | Jatinangor `2015-2019`
+   - GPA 3.43/4.00
+ #### 2. [SMA N 1 Garut](https://www.sman1Garut.sch.id) | IPS | Garut `2012-2015`
 ---
 
 ### Languages and Tools:
-
+[<img align="left" alt="Javascript" width="30px" src="https://cdn.utekno.com/wp-content/uploads/2013/09/javascript-logo.png?strip=all&lossy=1&ssl=1" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="React" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="React" width="30px" src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Node" width="30px" src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" />][webdev]
+[<img align="left" alt="Express" width="30px" src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" />][webdev]
+[<img align="left" alt="MongoDB" width="30px" src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+
 
 <br />
 <br />
 
 ---
-### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
-
-
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/vkran5/vkran5
